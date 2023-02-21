@@ -5,3 +5,5 @@ class Dict2Class(object):
         self.my_dict = my_dict
     def get_dict(self):
         return self.my_dict
+
+## Add test comment
